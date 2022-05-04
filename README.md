@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Shadymain
-- 👀 I’m interested in Product Design 
-- 🌱 I’m currently learning design systems 
-- 💞️ I’m looking to collaborate on building products 
+- 👀 I’m design Products 
 - 📫 How to reach me asaoluayomide@outlook.com
 
 <!---
