@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shadymain
-- 👀 I’m design Products 
+- 👀 I design Products 
 - 📫 How to reach me asaoluayomide@outlook.com
 
 <!---
